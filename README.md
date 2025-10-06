@@ -12,7 +12,7 @@ Built as part of the *100 Days of Code: The Complete Python Pro Bootcamp* on Ude
 - Handles coins and gives change  
 - Tracks profits  
 - Shows reports of remaining ingredients  
-
+- no oop
 ---
 
 ### What I Learned
